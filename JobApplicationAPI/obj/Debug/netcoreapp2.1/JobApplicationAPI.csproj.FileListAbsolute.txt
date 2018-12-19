@@ -1,0 +1,14 @@
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\bin\Debug\netcoreapp2.1\JobApplicationAPI.deps.json
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\bin\Debug\netcoreapp2.1\JobApplicationAPI.runtimeconfig.json
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\bin\Debug\netcoreapp2.1\JobApplicationAPI.runtimeconfig.dev.json
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\bin\Debug\netcoreapp2.1\JobApplicationAPI.dll
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\obj\Debug\netcoreapp2.1\JobApplicationAPI.csprojAssemblyReference.cache
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\obj\Debug\netcoreapp2.1\JobApplicationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\obj\Debug\netcoreapp2.1\JobApplicationAPI.RazorAssemblyInfo.cache
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\obj\Debug\netcoreapp2.1\JobApplicationAPI.RazorAssemblyInfo.cs
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\obj\Debug\netcoreapp2.1\JobApplicationAPI.AssemblyInfoInputs.cache
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\obj\Debug\netcoreapp2.1\JobApplicationAPI.AssemblyInfo.cs
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\obj\Debug\netcoreapp2.1\JobApplicationAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\bin\Debug\netcoreapp2.1\JobApplicationAPI.pdb
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\obj\Debug\netcoreapp2.1\JobApplicationAPI.dll
+C:\Users\Convidado\source\repos\JobApplicationAPI\JobApplicationAPI\obj\Debug\netcoreapp2.1\JobApplicationAPI.pdb
